@@ -7,3 +7,4 @@
 [4. Custom List View Live Data Input Using Base Adapter](/Units/1/4.md)<br>
 [5. Custom Grid View Using Base Adapter](/Units/1/5.md)<br>
 [6. Recycler View Using LinearLayoutManager ](/Units/1/6.md)<br>
+[7. Recycler View Using GridLayoutManager ](/Units/1/7.md)<br>
