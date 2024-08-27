@@ -1,5 +1,6 @@
 # CSE226: Android Appdevelopment
 
+## [Personal Notes](/Notes/readme.md)
 ## Unit 1: List and Recycler View
 - [Custom List Views Using Array Adapter](/Units/1/1.md)<br>
 - [Custom List Views using Base Adapter](/Units/1/2.md)<br>
@@ -15,4 +16,4 @@
 ## Unit 2: Background Processes
 
 - [Live Image Fetch Using Kotlin Coroutine](/Units/2/1.md)
-- [Live Video Fetch Using Kotlin Coroutine](/Units/2/)
+- [Live Video Fetch Using Kotlin Coroutine](/Units/2/2.md)
